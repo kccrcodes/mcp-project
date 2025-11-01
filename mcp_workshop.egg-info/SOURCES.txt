@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+mcp_workshop.egg-info/PKG-INFO
+mcp_workshop.egg-info/SOURCES.txt
+mcp_workshop.egg-info/dependency_links.txt
+mcp_workshop.egg-info/entry_points.txt
+mcp_workshop.egg-info/requires.txt
+mcp_workshop.egg-info/top_level.txt

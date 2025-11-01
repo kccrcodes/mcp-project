@@ -1,0 +1,10 @@
+{
+  "main.js": {
+    "_10": "abcd",
+    "_20": "efgh",
+    "_30": "ijkl"
+  },
+  "db.js": {
+    "_20": "insert a record"
+  }
+}

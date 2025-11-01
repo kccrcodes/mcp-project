@@ -1,0 +1,2 @@
+[console_scripts]
+todo_mcp = todo_mcp:run
